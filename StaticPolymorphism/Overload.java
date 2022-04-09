@@ -1,5 +1,11 @@
 package StaticPolymorphism;
 
+/**
+ * @author Amelia Nathasa
+ * @since 2022-04-08
+ * @version 1.0
+ */
+
 class Overload {
 	void demo(int a) {
 		System.out.println("a: " + a);

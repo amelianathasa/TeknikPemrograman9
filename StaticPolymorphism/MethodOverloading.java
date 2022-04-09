@@ -1,5 +1,11 @@
 package StaticPolymorphism;
 
+/**
+ * @author Amelia Nathasa
+ * @since 2022-04-08
+ * @version 1.0
+ */
+
 public class MethodOverloading {
 	public static void main(String args[]) {
 		Overload Obj = new Overload(); 
